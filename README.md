@@ -7,3 +7,6 @@ INTEGRANTES DEL EQUIPO:
 * Dioselin Esteban Brito
 * Guillermo Álvarez Morales
 * Santiago Salazar Ramírez
+<br>
+Consideración importante: <br>
+Existe una nueva versión comentada que se introdujo un día despues, el único cambio es estar mejor comentado.
